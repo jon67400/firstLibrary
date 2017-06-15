@@ -7,6 +7,6 @@ public class MyLibrary {
     }
 
     public String thisIsSdkBranch() {
-        return "This is the SDK branch";
+        return "This is the SDK branch with tag 0.3.0";
     }
 }
